@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mary 👋
 
-<!--
-**munyivam551/munyivam551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Procurement Officer and an aspiring Data Analyst currently pursuing Data Analytics through ALX Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+
+## Skills
+
+* Microsoft Excel
+* SQL
+* Tableau
+* Data Cleaning
+* Data Visualization
+* Data Analysis
+
+## Current Projects
+
+* Employee Equality Analysis
+* WorkBridge Customer Feedback Analysis
+* Deloitte Data Analytics Simulation
+* Data.gov Analytics Projects
+
+## Learning Journey
+
+I am continuously building projects and strengthening my skills in data analytics, business intelligence, and data storytelling.
+
+## Connect With Me
+
+* LinkedIn: (Add your LinkedIn link here)
+* Email: (Add your email here)
+
